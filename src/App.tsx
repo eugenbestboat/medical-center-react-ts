@@ -1,9 +1,12 @@
+import Layout from "./layout/Layout"
 
 
 function App() {
 
   return (
-    <div className="text-3xl text-red-600">Test</div>
+    <Layout>
+      <div className="">test</div>
+    </Layout>
   )
 }
 
