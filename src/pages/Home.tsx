@@ -1,7 +1,8 @@
+import Section from "../components/Section";
 
 function Home() {
   return (
-    <div className="dark:bg-red-800">Home</div>
+    <Section>Home</Section>
   )
 }
 

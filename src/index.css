@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  html {
+    @apply font-montserrat;
+  }
+  a {
+    @apply hover:text-primary;
+  }
+  ul {
+    @apply list-none mt-2;
+  }
+  li {
+    @apply ml-3;
+  }
+  .bg-text-theme {
+    @apply bg-light text-gray-600 dark:bg-gray-700 dark:text-gray-300;
+  }
+}

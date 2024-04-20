@@ -9,7 +9,15 @@ export default {
    container:{
     center: true,
    },
-    extend: {},
+    extend: {
+      colors: {
+        primary: "#0cb8b6",
+        light: "#f8f9fa",
+      },
+      fontFamily: {
+        montserrat: ["Montserrat", "sans-serif"],
+      },
+    },
   },
   plugins: [],
 }

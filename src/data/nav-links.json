@@ -1,0 +1,22 @@
+{
+    "links": [
+        {
+            "name": "home"
+        },
+        {
+            "name": "about"
+        },
+        {
+            "name": "services"
+        },
+        {
+            "name": "doctors"
+        },
+        {
+            "name": "contacts"
+        },
+        {
+            "name": "blogs"
+        }
+    ]
+}
