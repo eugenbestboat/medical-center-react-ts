@@ -1,0 +1,236 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "src": "/svgs/services/service-1.svg",
+            "title": "Crutches",
+            "color": "bg-blue-200",
+            "block": {
+                "src": "/images/crutches.png",
+                "title": "Welcome to our",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+            },
+            "doctors": [
+                {
+                    "id": 1,
+                    "src": "/images/member1.jpg",
+                    "title": "Dr. Mary Smith",
+                    "position": "General Practitioner",
+                    "description": "Expertise in crutch fittings and adjustments"
+                },
+                {
+                    "id": 2,
+                    "src": "/images/member2.jpg",
+                    "title": "Dr. Robert Johnson",
+                    "position": "Pediatrician",
+                    "description": "Expertise in crutch training and safety for children"
+                },
+                {
+                    "id": 3,
+                    "src": "/images/member3.jpg",
+                    "title": "Dr. Emily Davis",
+                    "position": "Orthopedist",
+                    "description": "Specializes in joint replacement and sports medicine. Provides expert advice on crutch use during rehabilitation."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "src": "/svgs/services/service-2.svg",
+            "title": "X-ray",
+            "color": "bg-red-200",
+            "block": {
+                "src": "/images/xray.png",
+                "title": "Welcome to our",
+                "description": " X-ray Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+            },
+            "doctors": [
+                {
+                    "id": 1,
+                    "src": "/images/member1.jpg",
+                    "title": "Dr. Mary Smith",
+                    "position": "Radiologist",
+                    "description": "Expertise in X-ray imaging and interpretation"
+                },
+                {
+                    "id": 2,
+                    "src": "/images/member2.jpg",
+                    "title": "Dr. Robert Johnson",
+                    "position": "Pediatric Radiologist",
+                    "description": "Specializes in X-ray imaging for children and adolescents"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "src": "/svgs/services/service-3.svg",
+            "title": "Pulmonary",
+            "color": "bg-green-200",
+            "block": {
+                "src": "/images/pulmonary.png",
+                "title": "Welcome to our",
+                "description": " Pulmonary Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+            },
+            "doctors": [
+                {
+                    "id": 1,
+                    "src": "/images/member1.jpg",
+                    "title": "Dr. Mary Smith",
+                    "position": "Pulmonologist",
+                    "description": "Expertise in diagnosing and treating respiratory conditions such as asthma, COPD, and lung cancer."
+                },
+                {
+                    "id": 2,
+                    "src": "/images/member2.jpg",
+                    "title": "Dr. Robert Johnson",
+                    "position": "Pediatric Pulmonologist",
+                    "description": "Specializes in diagnosing and treating respiratory conditions in children and adolescents."
+                },
+                {
+                    "id": 3,
+                    "src": "/images/member3.jpg",
+                    "title": "Dr. Emily Davis",
+                    "position": "Interventional Pulmonologist",
+                    "description": "Specializes in minimally invasive procedures for the diagnosis and treatment of lung cancer and other respiratory conditions."
+                },
+                {
+                    "id": 4,
+                    "src": "/images/member1.jpg",
+                    "title": "Dr. Sarah Thompson",
+                    "position": "Pulmonologist",
+                    "description": "Expertise in diagnosing and treating respiratory conditions such as asthma, COPD, and lung cancer."
+                },
+                {
+                    "id": 5,
+                    "src": "/images/member1.jpg",
+                    "title": "Dr. Sarah Thompson",
+                    "position": "Pulmonologist",
+                    "description": "Expertise in diagnosing and treating respiratory conditions such as asthma, COPD, and lung cancer."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "src": "/svgs/services/service-4.svg",
+            "title": "Cardiology",
+            "color": "bg-blue-200",
+            "block": {
+                "src": "/images/cardiology.png",
+                "title": "Welcome to our",
+                "description": "Cardiology Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+            },
+            "doctors": [
+                {
+                    "id": 1,
+                    "src": "/images/member1.jpg",
+                    "title": "Dr. Mary Smith",
+                    "position": "Cardiologist",
+                    "description": "Expertise in diagnosing and treating heart conditions such as coronary artery disease, heart failure, and arrhythmias."
+                },
+                {
+                    "id": 2,
+                    "src": "/images/member2.jpg",
+                    "title": "Dr. Robert Johnson",
+                    "position": "Pediatric Cardiologist",
+                    "description": "Specializes in diagnosing and treating heart conditions in children and adolescents."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "src": "/svgs/services/service-5.svg",
+            "title": "Dental Care",
+            "color": "bg-purple-200",
+            "block": {
+                "src": "/images/dental-care.png",
+                "title": "Welcome to our",
+                "description": " Dental Care Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+            },
+            "doctors": [
+                {
+                    "id": 1,
+                    "src": "/images/member1.jpg",
+                    "title": "Dr. Mary Smith",
+                    "position": "Dentist",
+                    "description": "Expertise in general dentistry, including fillings, extractions, and root canals."
+                },
+                {
+                    "id": 2,
+                    "src": "/images/member2.jpg",
+                    "title": "Dr. Robert Johnson",
+                    "position": "Pediatric Dentist",
+                    "description": "Specializes in dental care for children and adolescents."
+                },
+                {
+                    "id": 3,
+                    "src": "/images/member3.jpg",
+                    "title": "Dr. Emily Davis",
+                    "position": "Orthodontist",
+                    "description": "Specializes in correcting teeth and jaw alignment using braces, aligners, and other appliances."
+                },
+                {
+                    "id": 6,
+                    "src": "/images/member3.jpg",
+                    "title": "Dr. Michael Lee",
+                    "position": "Dentist",
+                    "description": "Expertise in general dentistry, including fillings, extractions, and root canals."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "src": "/svgs/services/service-6.svg",
+            "title": "Neurology",
+            "color": "bg-gray-200",
+            "block": {
+                "src": "/images/neurology.png",
+                "title": "Welcome to our",
+                "description": "Neurology Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+            },
+            "doctors": [
+                {
+                    "id": 1,
+                    "src": "/images/member1.jpg",
+                    "title": "Dr. Mary Smith",
+                    "position": "Neurologist",
+                    "description": "Expertise in diagnosing and treating conditions of the nervous system, such as multiple sclerosis, epilepsy, and Parkinson's disease."
+                },
+                {
+                    "id": 2,
+                    "src": "/images/member2.jpg",
+                    "title": "Dr. Robert Johnson",
+                    "position": "Pediatric Neurologist",
+                    "description": "Specializes in diagnosing and treating neurological conditions in children and adolescents."
+                },
+                {
+                    "id": 3,
+                    "src": "/images/member3.jpg",
+                    "title": "Dr. Emily Davis",
+                    "position": "Neurosurgeon",
+                    "description": "Specializes in surgical treatment of neurological conditions, such as brain tumors, spinal cord injuries, and epilepsy."
+                },
+                {
+                    "id": 1,
+                    "src": "/images/member1.jpg",
+                    "title": "Dr. Mary Smith",
+                    "position": "Neurologist",
+                    "description": "Expertise in diagnosing and treating conditions of the nervous system, such as multiple sclerosis, epilepsy, and Parkinson's disease."
+                },
+                {
+                    "id": 2,
+                    "src": "/images/member2.jpg",
+                    "title": "Dr. Robert Johnson",
+                    "position": "Pediatric Neurologist",
+                    "description": "Specializes in diagnosing and treating neurological conditions in children and adolescents."
+                },
+                {
+                    "id": 3,
+                    "src": "/images/member3.jpg",
+                    "title": "Dr. Emily Davis",
+                    "position": "Neurosurgeon",
+                    "description": "Specializes in surgical treatment of neurological conditions, such as brain tumors, spinal cord injuries, and epilepsy."
+                }
+            ]
+        }
+    ]
+}
