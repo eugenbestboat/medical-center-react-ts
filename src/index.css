@@ -38,7 +38,7 @@ div::-webkit-scrollbar-thumb {
     @apply p-3;
   }
   a {
-    @apply hover:text-primary;
+    @apply hover:text-primary cursor-pointer;
   }
   ul {
     @apply list-none mt-2
@@ -52,5 +52,11 @@ div::-webkit-scrollbar-thumb {
   }
   .input-theme {
     @apply appearance-none border bg-gray-100 dark:bg-gray-300 border-gray-300 rounded w-full py-2 px-3 dark:text-gray-400 leading-tight focus:outline-none;
+  }
+  .zoom-with-hover-125{
+    @apply hover:scale-125 transition-all duration-500 cursor-pointer hover:shadow-md;
+  }
+  .zoom-with-hover-110{
+    @apply hover:scale-110 transition-all duration-500 cursor-pointer hover:shadow-md;
   }
 }

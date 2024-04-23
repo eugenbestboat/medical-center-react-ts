@@ -1,0 +1,29 @@
+{
+    "about-info": 
+    [
+      {
+        "srcImg": "/svgs/about-logo-4.svg",
+        "description": "Years of experience",
+        "title": "20",
+        "subTitle": ""
+      },
+      {
+        "srcImg": "/svgs/about-logo-5.svg",
+        "description": "Happy Patients",
+        "title": "2354",
+        "subTitle": ""
+      },
+      {
+        "srcImg": "/svgs/about-logo-1.svg",
+        "description": "Qualified Doctors",
+        "title": "99",
+        "subTitle": ""
+      },
+      {
+        "srcImg": "/svgs/about-logo-6.svg",
+        "description": "Hospital Rooms",
+        "title": "125",
+        "subTitle": ""
+      }
+    ]
+}

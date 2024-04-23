@@ -4,6 +4,15 @@ import { IService, ServicesType } from "./interfaces";
 import { twMerge } from "tailwind-merge";
 function ServicesBlock({ services }: { services: IService[] }) {
   const [currentTitle, setCurrentTitle] = useState<ServicesType>("Crutches");
+  const colors:string[] = [
+    "bg-blue-200",
+    "bg-red-200",
+    "bg-green-200",
+    "bg-blue-200",
+    "bg-purple-200",
+    "bg-gray-200"
+  ];
+
   return (
     <>
       <div className="grid grid-cols-2 smallest:gap-x-20 sm:gap-x-0 smallest:grid-cols-3 lg:grid-cols-6 xl:px-44  justify-items-center">
@@ -16,7 +25,7 @@ function ServicesBlock({ services }: { services: IService[] }) {
               isActivated={s.title === currentTitle}
               src={s.src}
               alt={s.title as string}
-              className="bg-gray-300"
+              className={twMerge(colors[index], "zoom-with-hover-110")}
             />
             <div className={twMerge(s.title === currentTitle && "text-primary font-semibold")}>
             {s.title}

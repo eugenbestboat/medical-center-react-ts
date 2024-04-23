@@ -6,7 +6,7 @@ function Button({ onClick, text, className}:{
     className?: ClassNameValue;
 }) {
   return (
-    <button className={twMerge("flex justify-center items-center font-semibold rounded-lg px-5 py-2 bg-primary cursor-pointer", className)} onClick={onClick}>{text}</button>
+    <button className={twMerge("flex justify-center items-center font-semibold rounded-lg px-5 py-2 bg-primary cursor-pointer zoom-with-hover-110", className)} onClick={onClick}>{text}</button>
   )
 }
 
