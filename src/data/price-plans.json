@@ -1,0 +1,23 @@
+{
+    "price-plans":
+    [
+      {
+        "price": 342,
+        "title": "Single Doctor",
+        "doctors": 1,
+        "patients": 1
+      },
+      {
+        "price": 876,
+        "title": "Team",
+        "doctors": 5,
+        "patients": 1
+      },
+      {
+        "price": 1237,
+        "title": "Business",
+        "doctors": "Doctors and patients follow-up",
+        "patients": "20+ patients"
+      }
+    ]
+}

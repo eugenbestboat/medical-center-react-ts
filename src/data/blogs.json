@@ -1,0 +1,42 @@
+{
+    "blogs":[
+        {
+            "id": 1,
+            "src": "/images/blog-1.jpg",
+            "title": "individual treatment",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+        },
+        {
+            
+            "id": 2,
+            "src": "/images/blog-2.jpg",
+            "title": "child's first hospital",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+        },
+
+        {
+            "id": 3,
+            "src": "/images/blog-3.jpg",
+            "title": "working emergency",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+        },
+        {
+            "id": 4,
+            "src": "/images/blog-4.jpg",
+            "title": "we clearly set goals",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+        },
+        {
+            "id": 5,
+            "src": "/images/blog-5.jpg",
+            "title": "attention to everyone",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+        },
+        {
+            "id": 6,
+            "src": "/images/blog-6.jpg",
+            "title": "high qualification",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium illum hic voluptates commodi dolorem ullam accusantium pariatur voluptas, suscipit neque."
+        }
+    ]
+}

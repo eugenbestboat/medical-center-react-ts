@@ -1,0 +1,74 @@
+{
+    "info-links":[
+        {
+            "title": "contacts",
+        "links":[
+           {
+            "label":"address",
+            "href":"",
+            "content":"12345 Mickevicha str, 12 Gdansk, Poland"
+           },
+           {
+            "label":"email",
+            "href":"",
+            "content":"medical-center@gmail.com"
+           },
+           {
+            "label":"phone",
+            "href":"",
+            "content":"+380 123456789, +380 123456789"
+           }
+        ]
+        },
+        {
+            "title": "departments",
+        "links":[
+           {
+            "label":"rehabilitation",
+            "href":"",
+            "content":""
+           },
+           {
+            "label":"laboratory Analyses",
+            "href":"",
+            "content":""
+           },
+           {
+            "label":"face Lift Surgery",
+            "href":"",
+            "content":""
+           },
+           {
+            "label":"locution",
+            "href":"",
+            "content":""
+           }
+        ]
+        },
+        {
+            "title": "useful Links",
+        "links":[
+           {
+            "label":"faqs",
+            "href":"",
+            "content":""
+           },
+           {
+            "label":"blog",
+            "href":"",
+            "content":""
+           },
+           {
+            "label":"weekly timetable",
+            "href":"",
+            "content":""
+           },
+           {
+            "label":"terms & conditions",
+            "href":"",
+            "content":""
+           }
+        ]
+        }
+    ]
+}

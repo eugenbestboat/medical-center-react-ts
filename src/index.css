@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  cursor: pointer;
+  opacity: 1;
+  filter: invert(0.6);
+}
+input[type="date"] {
+  min-height: 2.5rem;
+  min-width: 100%;
+}
+
+div::-webkit-scrollbar {
+  width: 5px;
+}
+div::-webkit-scrollbar-thumb {
+  width: 5px;
+  background-color:lightgray;
+  border-radius: 7px;
+}
+
+@layer base {
+  html {
+    @apply font-montserrat;
+  }
+  h1 {
+    @apply text-6xl font-semibold;
+  }
+  h2 {
+    @apply text-4xl font-semibold;
+  }
+  h3 {
+    @apply text-xl font-semibold;
+  }
+  p {
+    @apply p-3;
+  }
+  a {
+    @apply hover:text-primary cursor-pointer;
+  }
+  ul {
+    @apply list-none mt-2
+  }
+  li {
+    @apply ml-3;
+  }
+
+  .bg-text-theme {
+    @apply bg-light text-gray-600 dark:bg-gray-700 dark:text-gray-300;
+  }
+  .input-theme {
+    @apply appearance-none border bg-gray-100 dark:bg-gray-300 border-gray-300 rounded w-full py-2 px-3 dark:text-gray-400 leading-tight focus:outline-none;
+  }
+  .zoom-with-hover-125{
+    @apply hover:scale-125 transition-all duration-500 cursor-pointer hover:shadow-md;
+  }
+  .zoom-with-hover-110{
+    @apply hover:scale-110 transition-all duration-500 cursor-pointer hover:shadow-md;
+  }
+}
