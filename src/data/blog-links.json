@@ -1,0 +1,86 @@
+{
+    "blog-links":[
+        {
+            "title": "categories",
+        "links":[
+           {
+            "label":"",
+            "href":"#",
+            "content":"cranches"
+           },
+           {
+            "label":"",
+            "href":"#",
+            "content":"x-ray"
+           },
+           {
+            "label":"",
+            "href":"#",
+            "content":"pulmonary"
+           },
+           {
+            "label":"",
+            "href":"#",
+            "content":"cardiology"
+           },
+           {
+            "label":"",
+            "href":"#",
+            "content":"dental Care"
+           },
+           {
+            "label":"",
+            "href":"#",
+            "content":"neurology"
+           }
+        ]
+        },
+        {
+            "title": "archives",
+        "links":[
+           {
+            "label":"",
+            "href":"#",
+            "content":"2023"
+           },
+           {
+            "label":"",
+            "href":"#",
+            "content":"2024"
+           },
+           {
+            "label":"",
+            "href":"#",
+            "content":"2022"
+           }
+           
+        ]
+        },
+        {
+            "title": "clinic news",
+        "links":[
+           {
+            "label":"",
+            "href":"#",
+            "content":"march 2024"
+           },
+           {
+            "label":"",
+            "href":"#",
+            "content":"November 2020"
+           },
+           {
+            "label":"",
+            "href":"#",
+            "content":"April 2019"
+           },
+           {
+            "label":"",
+            "href":"#",
+            "content":"December 2018"
+           }
+          
+        ]
+        }
+    ]
+}

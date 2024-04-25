@@ -29,7 +29,7 @@ function Home() {
             Way to get happy. <br />
             Best promises.
           </h1>
-          <h2 className="text-sm text-gray-600 md:text-4xl md:mt-5 md:ml-12 max-w-[500px]">
+          <h2 className="text-sm text-gray-600 md:text-xl md:mt-5 md:ml-12 max-w-[500px]">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum sit
             tempore ad natus neque! Fugiat mollitia consectetur quo sequi
             praesentium!
